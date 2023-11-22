@@ -1,9 +1,9 @@
 [submodule "apps/nuxt-app-1"]
 	path = apps/nuxt-app-1
-	url = /Users/manchild/code/nuxtApps/monorepo-nuxt-3/apps/nuxt-app-1
+url=https://github.com/Dwhyte/nuxt-app-1
 [submodule "apps/nuxt-app-2"]
 	path = apps/nuxt-app-2
-	url = /Users/manchild/code/nuxtApps/monorepo-nuxt-3/apps/nuxt-app-2
+url=https://github.com/Dwhyte/nuxt-app-2
 [submodule "apps/nuxt-app-3"]
 	path = apps/nuxt-app-3
-	url = /Users/manchild/code/nuxtApps/monorepo-nuxt-3/apps/nuxt-app-3
+url=https://github.com/Dwhyte/nuxt-app-3
